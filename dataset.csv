@@ -1,0 +1,7 @@
+text,label
+"Your account is locked. Click here to verify",phishing
+"Meeting scheduled at 10 AM tomorrow",safe
+"Urgent! Update your password immediately",phishing
+"Let's discuss project in class today",safe
+"Congratulations! You won a prize click link",phishing
+"Please find attached assignment document",safe
